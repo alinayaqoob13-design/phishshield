@@ -1,0 +1,17 @@
+# Python cache folders
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+notebook.ipynb
+
+
+# Dataset files
+Phishing_Legitimate_full.csv
+
+# Environment files
+.env
+
+# VSCode settings (optional but safe)
+.vscode/
